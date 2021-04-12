@@ -38,7 +38,8 @@ span{color:red;}
 <!-- <marquee bgcolor="royalblue" height="20px" width="1335px"><font color="white"><b>UNIT TEST-I</b> for Diploma students will be conducted from <b>02-AUG-2018 to 04-AUG-2018</b></font></marquee>  -->  
 		<div><br>
 
-	   		<center><h3><b><font color="red">WELCOME TO GPTW HOMEPAGE</font></b></h3></center>
+	   		<center><h3><b><font color="red">WELCOME TO GPTW HOMEPAGE</font></b>
+				<marquee>APPROVED BY NDLI CLUB(NATIONAL DIGITAL LIBRARY)</marquee></h3></center>
 	 </div><br>
 	 <center><img src="images/gptimages/1.jpg" height="400px" width="1200px"></center> 
 	<div>
